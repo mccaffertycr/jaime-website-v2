@@ -13,10 +13,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
+      {/* <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-      />
+      /> */}
       <article>
         <header>
           <h1
@@ -44,7 +44,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
         <footer>
-          <Bio />
+          {/* <Bio /> */}
+          put references here
         </footer>
       </article>
 
