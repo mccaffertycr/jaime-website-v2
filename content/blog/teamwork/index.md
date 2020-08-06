@@ -1,7 +1,7 @@
 ---
 title: Teamwork
 date: "2020-07-31T20:14:05.284Z"
-description: "Teamwork"
+description: "Friend, M. & Cook, L. (2017). Interactions: Collaboration skills for school professionals (8th ed.). Pearson Education, Inc.$$ VanEtten de Sánchez, Shelle. [TEDx Talks]. (2014, Jan. 15). The power of collaboration: Dr. Shelle VanEtten de Sánchez at TEDxABQWomen [Video file]. Retrieved from https://www.youtube.com/watch?v=VmQVNE-MbKI&feature=emb_logo"
 ---
 
 ![teamwork_1](./teamwork_1.png)

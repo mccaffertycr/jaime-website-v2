@@ -1,7 +1,7 @@
 ---
 title: Nonverbal Cues
 date: "2020-07-31T22:14:05.284Z"
-description: "Nonverbal Cues"
+description: "Friend, M. & Cook, L. (2017). Interactions: Collaboration skills for school professionals (8th ed.). Pearson Education, Inc.$$ Gavoni, P. (2015). The art of effectively communicating with students (and staff!). George Lucas Educational Foundation: Edutopia. Retrieved from https://www.edutopia.org/discussion/art-effectively-communicating-students-and-staff"
 ---
 
 A tremendous part of humanity’s communication is through their body language and nonverbal communication. In an article from Edutopia, Paul Gavoni is quoted saying “It is very much like a transmitter that is constantly pumping out signals” in which he is speaking about body language (Gavoni, 2015, Par. 7). A teacher needs to be aware of the body language and nonverbal cues that they are sending out, just like teachers need to be masterful at reading nonverbal cues. For teachers, it is important that our body language is neutral and consistent. Students can see when teachers are getting tense, angry, sad, or any other negative emotions that can be emitted without saying them. However, a teacher needs to control this and be even keel throughout the time in which students are being interacted with, even if the frustration is mounting inside. This shows students that your teacher is consistent, is reliable and trustworthy and should always be respected even when students are not behaving appropriately. A small nonverbal cue, like in the video below, can be even more effective than any spoken word.

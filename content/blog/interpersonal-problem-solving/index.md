@@ -1,10 +1,8 @@
 ---
 title: Interpersonal Problem Solving
 date: "2020-08-01T12:16:03.284Z"
-description: "Interpersonal Problem Solving"
+description: "Gavoni, P. (2015). The art of effectively communicating with students (and staff!). George Lucas Educational Foundation: Edutopia. Retrieved from https://www.edutopia.org/discussion/art-effectively-communicating-students-and-staff"
 ---
-
-### Interpersonal Problem Solving
 
 ![respect_1](./respect_1.png)
 

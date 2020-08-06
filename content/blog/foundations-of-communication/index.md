@@ -1,7 +1,7 @@
 ---
 title: Foundations of Communication
 date: "2020-07-31T22:12:03.284Z"
-description: "Foundations of Communication"
+description: "8 methods for effectively improving student communication skills. (n.d.). Wabisabi Learning. Retrieved from https://wabisabilearning.com/blogs/inquiry/8-methods-improving-student-communication-skills$$ Fisher, D. & Frey, N. (2018). Show & tell: a video column / boosting your teacher credibility. Educational Leadership, 76(1). Retrieved from http://www.ascd.org/publications/educational-leadership/sept18/vol76/num01/Boosting-Your-Teacher-Credibility.aspx$$ Friend, M. & Cook, L. (2017). Interactions: Collaboration skills for school professionals (8th ed.). Pearson Education, Inc.$$ Sullivan, T. [TEDx Talks]. (2016, May 26). The difference between a teacher and an educator | Timmy Sullivan | TEDxYouth@BHS [Video file]. Retrieved from https://www.youtube.com/watch?time_continue=211&v=P0MxylYP0yI&feature=emb_logo"
 ---
 
 In any education profession, communication is king. It is something that every educator needs to be practicing and becoming better at on a daily basis. In a Ted Talk from 2016, Tim Sullivan said that there was a distinction between being a “teacher” and an “educator.” From his perspective, teacher is a job title and is simply a person who disseminates information and content to their student. However, being an educator seems to be a higher calling in Mr. Sullivan’s eyes since his definition is a person who establishes a safe, proactive learning environment for their students and challenges them to transcend their boundaries every day (Sullivan, 2016). The only way for educators to enable their students to transcend those boundaries is by communicating effectively.

@@ -1,7 +1,7 @@
 ---
 title: Community Resources
 date: "2020-07-31T22:12:03.284Z"
-description: "Community Resources"
+description: "Friend, M. & Cook, L. (2017). Interactions: Collaboration skills for school professionals (8th ed.). Pearson Education, Inc.$$ Teachers and social media: rights and responsibilities. (2016). FindLaw. Retrieved from https://education.findlaw.com/teachers-rights/teachers-and-social-media-rights-and-responsibilities.html"
 ---
 
 In the “Teamwork” topic, the valued resource of the community that a person works in is discussed. I use my colleagues all the time for different resources, ideas, and lessons that can be adjusted and used in my own teaching style. Administrators coming into my classroom and observing have also elevated lessons after they have given great ideas to revise a lesson, so using the community as a resource has definitely been one of the most helpful experiences in my short teaching career. However, having access to colleagues can be challenging with the many demands of a teacher’s schedule. The more that teachers get comfortable with the rapidly advancing technology, the more equipped they are to teach in the modern world. I have no doubt that school systems will begin to implement more virtual classrooms so that teachers can address wider audiences while staying within their classrooms. Also, major data storage systems, such as Google Drive, enable teachers to send major projects and huge chunks of their curriculum without carrying binders and binders worth of curricula. This can only help collaboration since teachers can send the entire class’ worth of information with a touch of a button.

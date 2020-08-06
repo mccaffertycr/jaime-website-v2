@@ -1,10 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+// import SEO from "../components/seo"
+import { rhythm } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -27,7 +26,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          <p
+          {/* <p
             style={{
               ...scale(-1 / 5),
               display: `block`,
@@ -35,7 +34,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             }}
           >
             {post.frontmatter.date}
-          </p>
+          </p> */}
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -43,9 +42,32 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
-        <footer>
-          {/* <Bio /> */}
-          put references here
+        <footer style={{ marginBottom: rhythm(1) }}>
+          <p>References</p>
+          <section style={{ marginLeft: `4em` }}>
+            {post.frontmatter.description
+              ? post.frontmatter.description.split("$$ ").map(post => {
+                  return post.indexOf("http") > -1 ? (
+                    <>
+                      <small style={{ textIndent: `4em`, marginLeft: `-4em` }}>
+                        {post.slice(0, post.indexOf("http"))}
+                        <a href={post.slice(post.indexOf("http"))}>
+                          {post.slice(post.indexOf("http"))}
+                        </a>
+                      </small>
+                      <br />
+                    </>
+                  ) : (
+                    <>
+                      <small style={{ textIndent: `4em`, marginLeft: `-4em` }}>
+                        {post}
+                      </small>
+                      <br />
+                    </>
+                  )
+                })
+              : ""}
+          </section>
         </footer>
       </article>
 
